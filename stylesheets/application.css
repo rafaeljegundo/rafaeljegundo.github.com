@@ -1,0 +1,28 @@
+footer {
+  margin: 10px auto 10px auto;
+}
+
+.container {
+  text-align: center;
+}
+
+header  {
+  width: 100%;
+  margin: 40px auto;
+  text-align: center;
+  vertical-align: baseline;
+}
+
+.circle {
+  vertical-align:middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  background: url(../images/avatar.png) no-repeat;
+}
+
+#title{
+  width: 80%
+}
