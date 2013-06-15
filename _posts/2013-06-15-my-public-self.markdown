@@ -2,7 +2,7 @@
 layout: post
 title:  "My Public Self"
 date:   2013-06-15 11:37
-categories: meta self public
+categories: self
 excerpt: Who is Rafael Jegundo?
 ---
 
