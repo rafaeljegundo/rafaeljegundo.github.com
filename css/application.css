@@ -30,9 +30,18 @@ footer{
 
 a {
   text-decoration: none;
+  color: black;
 }
 
 a:hover{
   background: #FCF0AD;
 }
 
+a:visited{
+  text-decoration: none;
+  color: black;
+}
+
+.excerpt{
+  font-size: 0.8em;
+}
