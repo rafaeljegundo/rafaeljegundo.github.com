@@ -1,0 +1,38 @@
+article{
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+footer{
+  clear:both;
+  text-align: right;
+}
+
+.head-label{
+  background: #FCF0AD;
+  text-align: center;
+}
+
+.date{
+  color: #AAA;
+  font-size: 0.7em;
+}
+
+.posts li {
+  margin-top: 25px;
+}
+
+.posts p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover{
+  background: #FCF0AD;
+}
+
